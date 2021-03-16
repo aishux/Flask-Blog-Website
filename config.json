@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "li_url":"https://www.linkedin.com/in/aishwarya-nathani/",
+    "ig_url":"https://www.instagram.com/x.aishu/",
+    "gh_url": "https://github.com/aishux",
+    "blog_name": "Blog using Flask",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"youremail@domain.com",
+    "gmail-password":"yourpassword",
+    "about_text": "Hi I am Aishwarya and this is my first project using Flask and I'm so excited!",
+    "no_of_posts": 4,
+    "login_image":"login.svg",
+    "admin_user":"aishwarya",
+    "admin_password": "pawrihorahihai",
+    "upload_location":"/Users/aishwaryanathani/Desktop/Flask/Flask-Blog/static"
+
+
+  }
+
+}
