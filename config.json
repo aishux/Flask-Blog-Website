@@ -14,8 +14,8 @@
     "about_text": "Hi I am Aishwarya and this is my first project using Flask and I'm so excited!",
     "no_of_posts": 4,
     "login_image":"login.svg",
-    "admin_user":"aishwarya",
-    "admin_password": "pawrihorahihai",
+    "admin_user":"admin",
+    "admin_password": "admin123",
     "upload_location":"/Users/aishwaryanathani/Desktop/Flask/Flask-Blog/static"
 
 
